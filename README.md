@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Anoop Tiwari — Java Lead | Backend Architect | AI Enthusiast
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2b6cb0&center=true&width=680&lines=CleanCode%7C+Scalable+Systems+%7C+Continuous+Learning)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2B6CB0&center=true&vCenter=true&width=900&lines=Clean+Code+%7C+Scalable+Systems+%7C+Continuous+Learning)
 
 ---
 
