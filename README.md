@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Anoop Tiwari — Java Lead | Backend Architect | AI Enthusiast
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2b6cb0&center=true&width=680&lines=Clean+Code+%7C+Scalable+Systems+%7C+Continuous+Learning)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2b6cb0&center=true&width=680&lines=CleanCode+%7C+Scalable+Systems+%7C+Continuous+Learning)
 
 ---
 
@@ -47,8 +47,6 @@ I’m a Software Development Lead with **11+ years** of experience in **Java** a
 - **B2B Sales UI (BFF)** — End-to-end BFF microservices for contract & offer configuration using Spring Boot; integrated with Couchbase and Kafka; led a small Agile team.
 - **Order Management Microservices** — Telecom order execution flows built with microservices, DDD principles, and CI/CD pipelines.
 - **Java Foundation & Performance** — Contributed to core Java modules and improved BPMN flow performance using Camunda.
-
-> Want project links inside this section? I can convert these to actual repo links and add screenshots/diagrams.
 
 ---
 
