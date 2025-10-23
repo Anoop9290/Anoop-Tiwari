@@ -53,10 +53,9 @@ I’m a Software Development Lead with **11+ years** of experience in **Java** a
 ---
 
 ## 📈 GitHub Stats
-![Anoop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anoop-tiwari&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anoop-tiwari&layout=compact&theme=tokyonight&hide_title=true)
+![Anoop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anoop9290&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anoop9290&layout=compact&theme=tokyonight&hide_title=true)
 
-*(Replace `anoop-tiwari` with your GitHub username if different.)*
 
 ---
 
@@ -79,7 +78,8 @@ Open to:
 - ✉️ Email: tiwari.anoop007@gmail.com  
 - 📍 Location: Pune, India  
 - 🔗 Portfolio: https://bold.pro/my/anoop-tiwari/370r  
-- 🔗 LinkedIn: https://linkedin.com/in/your-link
+- 🔗 LinkedIn: www.linkedin.com/in/geekanoop
+
 
 ---
 
