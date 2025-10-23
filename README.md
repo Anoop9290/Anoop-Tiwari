@@ -93,9 +93,3 @@ I enjoy improving developer workflows and occasionally explore AI to automate re
 
 ---
 
-If you'd like, I can:
-- Replace placeholders with your real GitHub username and LinkedIn link (I used sensible defaults).  
-- Add animated SVG counters, a projects gallery with thumbnails, or a downloadable CV link.  
-- Generate a ready-to-upload `README.md` file and a `.png` hero image for your profile.
-
-Want me to **replace the placeholders now** and produce the final file ready for upload? (I’ll do it in this reply — no waiting.)
