@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/-tiwari.anoop007@gmail.com-7b8db0?style=flat&logo=gmail&logoColor=white)](mailto:tiwari.anoop007@gmail.com)
 [![Location](https://img.shields.io/badge/📍-Pune,India-6c6c6c?style=flat)]()
 [![Portfolio](https://img.shields.io/badge/Portfolio-bold.pro-4c51bf?style=flat&logo=google-chrome&logoColor=white)](https://bold.pro/my/anoop-tiwari/370r)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/geekanoop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekanoop/)
 
 ---
 
